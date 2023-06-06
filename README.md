@@ -31,7 +31,7 @@ cancellations. Both weather delays and flight cancellations appear to be most fr
 February, right before spring.
 
 Insight 3
-Dashboard 2 Link: https://public.tableau.com/views/CancellationFactors/Dashboard2?:language=enUS&publish=yes&:display_count=n&:origin=viz_share_link
+Dashboard 2 Link: [https://public.tableau.com/views/CancellationFactors/Dashboard2?:language=enUS&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/CancellationFactors/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Q3: Which factor or reason caused the highest number of cancellations in 2015? How does each reason 
 vary throughout the year?
