@@ -16,7 +16,7 @@ following at 165 minutes. At the bottom of both averages is American Eagle (MQ) 
 
 Insight 2
 Dashboard 1 Link:
-https://public.tableau.com/views/HowDoWeatherDelaysandCancellationsVarybyState/Dashboard1?:l
+[https://public.tableau.com/views/HowDoWeatherDelaysandCancellationsVarybyState/Dashboard1?:l](https://public.tableau.com/shared/W96ZHCT37?:display_count=n&:origin=viz_share_link)
 anguage=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Q2: Which state(s) experienced the highest number of weather delays and flight cancellations, and how 
