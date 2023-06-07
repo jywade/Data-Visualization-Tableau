@@ -1,7 +1,7 @@
 # Flights-Analysis
 Tableau Data Dashboard
 
-By leveraging Tableau, I crafted compelling visualizations that not only narrate a captivating story but also shed light on hidden patterns within the data. The dataset I worked with encompassed information on flights, airlines, and airports, which required merging three distinct Excel files into a cohesive tableau project. Through exploration of the data, I successfully addressed three key questions, unraveling valuable insights.
+By leveraging Tableau, I crafted compelling visualizations that not only narrate a captivating story but also shed light on hidden patterns within the data. The dataset I worked with encompassed information on flights, airlines, and airports, which required merging three distinct Excel files into a cohesive tableau project. Through exploration of the data, I successfully addressed three key questions, unraveling valuable insights. 
 
 Worksheet Link: https://public.tableau.com/views/AvgFlightDistancebyAirline/Q1?:language=enUS&publish=yes&:display_count=n&:origin=viz_share_link
 
