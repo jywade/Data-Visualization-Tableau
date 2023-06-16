@@ -1,4 +1,4 @@
-## Flights-Analysis
+## Analyzing Flight Data
 
 **Tableau Data Dashboard**
 
