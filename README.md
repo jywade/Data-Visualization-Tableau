@@ -24,7 +24,7 @@ anguage=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 does it compare to other states? Is there a correlation between the frequency of weather delays and 
 cancellations in different states?**
 
-Summary: As seen in the visuals, Texas (TX) comes in first in terms of weather delays and flight 
+* *Summary:*  As seen in the visuals, Texas (TX) comes in first in terms of weather delays and flight 
 cancellation frequency. The scatter plot reveals a clear positive correlation between weather delays and 
 cancellations. As weather delays increase, so do the number of flight cancellations. This finding suggests 
 that adverse weather conditions significantly impact flight operations, leading to a higher likelihood of 
@@ -37,7 +37,7 @@ Dashboard 2 Link: [https://public.tableau.com/views/CancellationFactors/Dashboar
 **Q3: Which factor or reason caused the highest number of cancellations in 2015? How does each reason 
 vary throughout the year?**
 
-Summary: The pie chart reveals that the most common cause of cancellation in 2015 was due to adverse 
+* *Summary:* The pie chart reveals that the most common cause of cancellation in 2015 was due to adverse 
 weather. Notably, February experienced the highest number of weather-related cancellations, while 
 September witnessed the lowest. Additionally, cancellations attributed to the National Air System were 
 most prevalent during February, while Airline/Carrier-related cancellations peaked during the summer 
