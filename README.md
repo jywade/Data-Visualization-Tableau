@@ -9,7 +9,7 @@ Worksheet Link: https://public.tableau.com/views/AvgFlightDistancebyAirline/Q1?:
 **Q1: What is the average distance of flights for each airline? Which airline has the highest average flight 
 distance?**
 
-Summary: In this visualization we see that the airline Virgin America (VX) had highest average flight 
+* *Summary:* In this visualization we see that the airline Virgin America (VX) had highest average flight 
 distance amongst the 14 total airlines, with an average flight distance of 1,419 miles. Additionally, as 
 seen in the tooltip, VX also has the highest average airtime (184 min.) with United Air Lines closely 
 following at 165 minutes. At the bottom of both averages is American Eagle (MQ) with an avg distance of 
